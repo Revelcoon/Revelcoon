@@ -1,9 +1,8 @@
-## Hi there 👋🇷🇺 Русский
-Добро пожаловать в питомник мейн-кунов Revelcoon!
-Наши кошки — это грация и величие дикой природы, соединённые с нежностью и дружелюбием домашнего питомца. Мы с любовью выращиваем котят в тёплой, семейной атмосфере, чтобы они становились здоровыми, красивыми и общительными. Здесь вы найдёте верного друга, который подарит вам радость на долгие годы.
-🇪🇪 Eesti
+## Hi there 👋
 Tere tulemast Revelcoon Maine Coon kassikasvatusesse!
-Meie kassid ühendavad endas looduse graatsia ja väärikuse ning koduse lemmiku sõbralikkuse ja kiindumuse. Kasvatame oma kassipoegi armastuses ja soojas koduses õhkkonnas, et neist kasvaksid terved, kaunid ja seltsivad kaaslased. Siit leiate ustava sõbra, kes toob teie ellu rõõmu paljudeks aastateks.
+Meie kassid ühendavad endas looduse graatsia ja väärikuse ning koduse lemmiku sõbralikkuse ja kiindumuse.
+
+Revelcoon on eksklusiivne kassikasvatus, kus ühendame väärika ilu, muljetavaldava jõu ja laitmatu iseloomu. Iga kassipoeg on hoolika tõuvaliku ning suure armastuse ja hoole tulemus. Oleme uhked, et meie Maine Coon’id vastavad kõrgeimatele tõustandarditele ning saavad kodu tõeliseks ehteks ja ustavaks kaaslaseks paljudeks aastateks.
 
 
 <!--revelcoon-site/
